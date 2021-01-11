@@ -12,13 +12,13 @@
 
 ## Links
 
-- [Live View]()
+- [Live View](https://capstone-portfolio-builder-client.vercel.app/)
 
-- [Repo]()
+- [Repo](https://github.com/Trobbins2020/capstone-portfolio-builder-client)
 
 - [Api Endpoint](https://stark-tundra-62144.herokuapp.com/)
 
-- [Api Endpoint Repo]()
+- [Api Endpoint Repo](https://github.com/Trobbins2020/capstone-portfolio-builder-api)
 
 ## Available Scripts
 
