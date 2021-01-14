@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://portfolio-builder-client.vercel.app/">Portfolio Builder</a></h1>
+<h1 align="center"><a href="https://capstone-portfolio-builder-client.vercel.app/">Portfolio Builder</a></h1>
 
 <h3 align="center">You can build your portfolio in couple of minutes</h3>
 
