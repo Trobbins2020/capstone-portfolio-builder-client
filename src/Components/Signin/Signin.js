@@ -60,6 +60,10 @@ export default class Signin extends Component {
               Register Instead
             </Link>
           </div>
+          <div className="text-center mb-3 mt-3">
+            <h2>Demo User: user demo</h2>
+            <h2>Password: Demo2021!</h2>
+          </div>
           <div className="text-center mb-2">
             <input type="submit" value="Submit" />
           </div>
