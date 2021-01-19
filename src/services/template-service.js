@@ -2,7 +2,7 @@ import config from "../config";
 import TokenService from "./token-service";
 
 const TemplateService = {
-  fromData(fromData) {
+  FormData(fromData) {
     fromData.token = TokenService.getAuthToken();
     return fetch(`${config.API_ENDPOINT}/templates/data`, {
       method: "POST",
