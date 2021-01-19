@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Links](#links)
+- [Screenshots](#screenshots)
 - [Available Scripts](#available-scripts)
 - [Built With](#built-with)
 - [Future Updates](#future-updates)
@@ -19,6 +20,12 @@
 - [Api Endpoint](https://stark-tundra-62144.herokuapp.com/)
 
 - [Api Endpoint Repo](https://github.com/Trobbins2020/capstone-portfolio-builder-api)
+
+## Screenshots
+
+![Home Page](/screenshot/1.png "Home Page")
+![Get Started Page](/screenshot/2.png "Get Started Page")
+![Template](/screenshot/3.png "Template")
 
 ## Available Scripts
 
